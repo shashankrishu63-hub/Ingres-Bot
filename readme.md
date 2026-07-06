@@ -22,4 +22,4 @@ To set up the notes app frontend on your local machine, follow these steps:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/abhaysgitt/IngresBot.git
+   https://github.com/shashankrishu63-hub/Ingres-Bot.git
